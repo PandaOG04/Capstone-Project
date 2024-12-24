@@ -7,4 +7,5 @@ The installation of this project is as follows:
 * Click on Code
 * Hit download zip 
 
-# Usage of Project
+# Usage of the Project
+Simply extract the zip onto your desktop or straight into any code editor that is in use to look at the code. Open the index.html file to view in browser.
