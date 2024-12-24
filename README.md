@@ -9,4 +9,4 @@ The installation of this project is as follows:
 
 # Usage of the Project
 Simply extract the zip onto your desktop or straight into any code editor that is in use to look at the code. Open the index.html file to view in browser.
-!(https://github.com/PandaOG04/Capstone-Project/blob/master/Home.png?raw=true)
+![](https://github.com/PandaOG04/Capstone-Project/blob/master/Home.png?raw=true)
